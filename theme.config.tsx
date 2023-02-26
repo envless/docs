@@ -50,9 +50,9 @@ const config: DocsThemeConfig = {
 
   useNextSeoProps() {
     return {
-      titleTemplate: '%s – Envless Docs'
-    }
-  }
+      titleTemplate: "%s – Envless Docs",
+    };
+  },
 };
 
 export default config;
